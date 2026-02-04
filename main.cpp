@@ -5,7 +5,7 @@ int main() {
 HEAD
     cout << "Ciao dal main branch!" << endl;
 
-    cout << "Ciao da feature branch" << endl;
+    cout << "Modifica fatta direttamente su main" << endl;
  feature-saluto
     return 0;
 }
